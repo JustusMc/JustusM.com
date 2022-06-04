@@ -1,2 +1,1 @@
-# Justusm.com
-Portfolio Site
+# justusm.com
